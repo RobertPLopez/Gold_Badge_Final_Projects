@@ -54,6 +54,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Komodo_Menu_Test\Komodo_Menu_Test.csproj">
+      <Project>{f07d2990-558d-4e4b-9e1e-0120f89e40f1}</Project>
+      <Name>Komodo_Menu_Test</Name>
+    </ProjectReference>
     <ProjectReference Include="..\RepositoryPattern_Repository\Komodo_Menu_Repository.csproj">
       <Project>{B3F13DBA-AAAD-45DC-B89A-A2C224F3BEDB}</Project>
       <Name>Komodo_Menu_Repository</Name>

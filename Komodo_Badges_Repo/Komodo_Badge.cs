@@ -8,12 +8,19 @@ namespace Komodo_Badges_Repo
 {
 	public class Komodo_Badge
 	{
-		//POCO Plain Old C# Object 
-		//Empty Constructor 
-		public Komodo_Badge() { }
+        private string doorDescription;
 
-		// Full Constructor 
-		public Komodo_Badge( string doorName, BadgePersonnelNames badgeNames) 
+        //POCO Plain Old C# Object 
+        //Empty Constructor 
+        public Komodo_Badge() { }
+
+        public Komodo_Badge(string doorDescription)
+        {
+            this.doorDescription = doorDescription;
+        }
+
+        // Full Constructor 
+        public Komodo_Badge( string doorName, BadgePersonnelNames badgeNames) 
 		{
 			DoorName = doorName;
 			BadgeNames = badgeNames;

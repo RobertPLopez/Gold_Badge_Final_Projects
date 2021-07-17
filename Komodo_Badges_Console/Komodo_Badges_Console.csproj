@@ -58,6 +58,10 @@
       <Project>{bf68da0e-589b-436c-bc91-c329d4d1462d}</Project>
       <Name>Komodo_Badges_Repo</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Komodo_Badges_Test\Komodo_Badges_Test.csproj">
+      <Project>{097aa52e-dcdf-459e-bea6-d46e120d6f21}</Project>
+      <Name>Komodo_Badges_Test</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

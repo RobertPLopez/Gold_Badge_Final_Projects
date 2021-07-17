@@ -78,6 +78,10 @@
       <Project>{fc1c1376-d6b8-4b16-ad9e-3535d22657a0}</Project>
       <Name>Komodo_Claims_Repository</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Komodo_Claims_Test\Komodo_Claims_Test.csproj">
+      <Project>{0e162efc-2c1b-4d2b-b203-3281dbb38532}</Project>
+      <Name>Komodo_Claims_Test</Name>
+    </ProjectReference>
     <ProjectReference Include="..\RepositoryPattern_Tests\Komodo_Menu_Test.csproj">
       <Project>{7722fca3-8bc6-4ac8-8a14-44113942a2b1}</Project>
       <Name>Komodo_Menu_Test</Name>

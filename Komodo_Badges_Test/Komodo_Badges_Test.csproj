@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F07D2990-558D-4E4B-9E1E-0120F89E40F1}</ProjectGuid>
+    <ProjectGuid>{097AA52E-DCDF-459E-BEA6-D46E120D6F21}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Komodo_Menu_Test</RootNamespace>
-    <AssemblyName>Komodo_Menu_Test</AssemblyName>
+    <RootNamespace>Komodo_Badges_Test</RootNamespace>
+    <AssemblyName>Komodo_Badges_Test</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -49,16 +49,16 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Komodo_Menu_Test1.cs" />
+    <Compile Include="Komodo_Badges_Test1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\RepositoryPattern_Repository\Komodo_Menu_Repository.csproj">
-      <Project>{b3f13dba-aaad-45dc-b89a-a2c224f3bedb}</Project>
-      <Name>Komodo_Menu_Repository</Name>
+    <ProjectReference Include="..\Komodo_Badges_Repo\Komodo_Badges_Repo.csproj">
+      <Project>{bf68da0e-589b-436c-bc91-c329d4d1462d}</Project>
+      <Name>Komodo_Badges_Repo</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
