@@ -1,0 +1,5 @@
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\RepositoryPattern_Repository\bin\Debug\RepositoryPattern_Repository.dll
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\RepositoryPattern_Repository\bin\Debug\RepositoryPattern_Repository.pdb
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\RepositoryPattern_Repository\obj\Debug\Komodo_Menu_Repository.csproj.CoreCompileInputs.cache
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\RepositoryPattern_Repository\obj\Debug\RepositoryPattern_Repository.dll
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\RepositoryPattern_Repository\obj\Debug\RepositoryPattern_Repository.pdb

@@ -1,0 +1,7 @@
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\Komodo_Badges_Repo\bin\Debug\Komodo_Badges_Repo.dll.config
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\Komodo_Badges_Repo\bin\Debug\Komodo_Badges_Repo.dll
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\Komodo_Badges_Repo\bin\Debug\Komodo_Badges_Repo.pdb
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\Komodo_Badges_Repo\obj\Debug\Komodo_Badges_Repo.csproj.AssemblyReference.cache
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\Komodo_Badges_Repo\obj\Debug\Komodo_Badges_Repo.csproj.CoreCompileInputs.cache
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\Komodo_Badges_Repo\obj\Debug\Komodo_Badges_Repo.dll
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\Komodo_Badges_Repo\obj\Debug\Komodo_Badges_Repo.pdb

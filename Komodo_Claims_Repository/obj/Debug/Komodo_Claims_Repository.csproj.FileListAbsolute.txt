@@ -1,0 +1,6 @@
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\Komodo_Claims_Repository\bin\Debug\Komodo_Claims_Repository.dll.config
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\Komodo_Claims_Repository\bin\Debug\Komodo_Claims_Repository.dll
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\Komodo_Claims_Repository\bin\Debug\Komodo_Claims_Repository.pdb
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\Komodo_Claims_Repository\obj\Debug\Komodo_Claims_Repository.csproj.CoreCompileInputs.cache
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\Komodo_Claims_Repository\obj\Debug\Komodo_Claims_Repository.dll
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\Komodo_Claims_Repository\obj\Debug\Komodo_Claims_Repository.pdb
