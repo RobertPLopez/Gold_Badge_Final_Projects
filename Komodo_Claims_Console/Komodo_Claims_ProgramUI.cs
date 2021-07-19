@@ -222,6 +222,8 @@ namespace Komodo_Claims_Console
             // Claims_Content(int claimID, Claimtype claimType, string description, int claimAmmount, DateTime dateOfIncident, DateTime dateOfClaim, bool yesNo)
             Claims_Content claim1 = new Claims_Content(1, 0, "One occupent, who had a tree fall on his house", 40000, DateTime.Now, DateTime.Parse("11/15/21"));
 
+            _repo.AddANewClaim(claim1);
+
         }
     }
 }
