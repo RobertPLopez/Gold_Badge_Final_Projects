@@ -136,8 +136,8 @@ namespace Komodo_Badges_Console
 
             PressAnyKeyToReturnToMainMenu();
         }
-        private void ShowListOfDoorsAndBadges()
-        {
+       private void ShowListOfDoorsAndBadges()
+       {
             List<Komodo_Badge> listOfBadges = _repo.GetAllBadges();
 
             foreach (Komodo_Badge content in listOfBadges)
@@ -146,13 +146,15 @@ namespace Komodo_Badges_Console
             }
 
             PressAnyKeyToReturnToMainMenu();
-        }
+       }
+
 
         private void DisplayContent(Komodo_Badge content)
         {
             Console.WriteLine($"Door Name: {content.DoorName}\n" +
                                 $"Description: {content.BadgeNames}\n");
         }
+
 
         private void PressAnyKeyToReturnToMainMenu()
         {

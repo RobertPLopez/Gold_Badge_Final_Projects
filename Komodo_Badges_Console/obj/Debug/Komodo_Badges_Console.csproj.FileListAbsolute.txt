@@ -9,3 +9,10 @@ C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\Reposit
 C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\Komodo_Badges_Console\obj\Debug\Komodo_Badges_Console.csproj.CopyComplete
 C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\Komodo_Badges_Console\obj\Debug\Komodo_Badges_Console.exe
 C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\Komodo_Badges_Console\obj\Debug\Komodo_Badges_Console.pdb
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\Komodo_Badges_Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\Komodo_Badges_Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\Komodo_Badges_Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\Komodo_Badges_Console\bin\Debug\Komodo_Badges_Test.dll
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\Komodo_Badges_Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\Komodo_Badges_Console\bin\Debug\Komodo_Badges_Test.pdb
+C:\Eleven Fifty Academy\DailyNotes\Projects\12) Gold_Badge_Final_Project\RepositoryPatternConsole-main\Komodo_Badges_Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
